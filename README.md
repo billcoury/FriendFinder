@@ -1,6 +1,6 @@
 # FriendFinder
 
-A fullstack friend-finding application using the Express package for Node.js
+A full stack friend-finding application using the Express package for Node.js
 
 Check out the deployed app on Heroku here!
 https://immense-spire-62152.herokuapp.com/
